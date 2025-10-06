@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/_main.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":[".current {\n  color: red;\n  font-weight: 600;\n}\n"],"file":"styles.css"}
